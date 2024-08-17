@@ -1,6 +1,6 @@
 👋 Hi, I’m Sandipnivargi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning for C++
+- 👀 I’m interested in Software developer 
+- 🌱 I’m currently learning for Coding 
 - 💞️ I’m looking to collaborate on my gols
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
